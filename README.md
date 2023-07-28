@@ -1,7 +1,7 @@
 ﻿# Bermuda-Shop
 Website Link: https://bermudashop.onrender.com/
 
-Home Screen
+##### Home Screen
 <img width="1269" alt="homescreen" src="https://github.com/ShashwatG16/Bermuda-Shop/assets/84587801/41960253-edc8-4055-b96d-e0664369d72b">
 Product Screen
 <img width="1266" alt="ProductScreen" src="https://github.com/ShashwatG16/Bermuda-Shop/assets/84587801/f1e6879c-dc99-4c83-9390-eab43839b772">
